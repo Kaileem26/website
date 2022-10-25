@@ -14,12 +14,12 @@ This month's update includes:</p>
 <li>Meetups</li>
 </ul>
 
-<p>As always, these are available both on our blog and via e-mail:&nbsp;<a href="http://eepurl.com/dhL_qb">Sign up to get the .NET Foundation Update via e-mail</a></p>
+<p>As always, these are available both on our blog and via e-mail:&nbsp;<a href="https://eepurl.com/dhL_qb">Sign up to get the .NET Foundation Update via e-mail</a></p>
 
 <hr />
 <h2><a href="https://www.dotnetconf.net/" rel="nofollow">.NET Conf 2019</a></h2>
 
-<p>.NET Conf 2019 is a wrap and it was the largest one yet all because of you and our wonderful community. THANK YOU! We had over 100,000 views, 77 live sessions, gave away $20,000 worth of prizes and best of all,&nbsp;<u><a href="http://aka.ms/dotnetcore3" rel="noreferrer noopener" tabindex="-1" target="_blank" title="http://aka.ms/dotnetcore3">.NET Core 3.0 is released</a></u>! What a week.<br />
+<p>.NET Conf 2019 is a wrap and it was the largest one yet all because of you and our wonderful community. THANK YOU! We had over 100,000 views, 77 live sessions, gave away $20,000 worth of prizes and best of all,&nbsp;<u><a href="https://aka.ms/dotnetcore3" rel="noreferrer noopener" tabindex="-1" target="_blank" title="https://aka.ms/dotnetcore3">.NET Core 3.0 is released</a></u>! What a week.<br />
 <br />
 Sessions are now available on demand so be sure to check out anything you missed. We're still processing and uploading some of the Day 3 sessions but most of them are ready. Some of the more popular sessions were the Keynote, C# 8.0, and Blazor. The&nbsp;<u><a href="https://github.com/dotnet-presentations/dotnetconf2019" rel="noreferrer noopener" tabindex="-1" target="_blank" title="https://github.com/dotnet-presentations/dotnetconf2019">decks and demos are up on GitHub</a></u>&nbsp;for you to use in your presentations and Meetups.<br />
 <br />
@@ -38,13 +38,13 @@ We had 228 .NET Conf Local Events this year with 15K+ estimated attendees!</p>
 
 <p><a href="https://www.dotnetconf.net/local-events" target="_blank" title=""><img alt=".NET Conf Local Event Map" src="assets/posts/ceab7291-9a1b-4db8-83c9-46c6b2bdf744.jpg" width="564" /></a></p>
 
-<p><a href="https://twitter.com/mba_oma/status/1183489689908580359"><img alt=".Net" src="assets/posts/dotnetconf-2019-nigeria.png" width="45%" /></a></p>
+<p><a href="https://twitter.com/mba_oma/status/1183489689908580359"><img alt=".NET" src="assets/posts/dotnetconf-2019-nigeria.png" width="45%" /></a></p>
 
-<p><a href="https://twitter.com/mba_oma/status/1183489689908580359">&nbsp;</a><a href="https://twitter.com/KagJansamret/status/1187990165697916931"><img alt=".Net" src="assets/posts/dotnetconf-2019-thailand.png" width="45%" /></a></p>
+<p><a href="https://twitter.com/mba_oma/status/1183489689908580359">&nbsp;</a><a href="https://twitter.com/KagJansamret/status/1187990165697916931"><img alt=".NET" src="assets/posts/dotnetconf-2019-thailand.png" width="45%" /></a></p>
 
-<p><a href="https://twitter.com/KagJansamret/status/1187990165697916931">&nbsp;</a><a href="https://twitter.com/Rie_Moriguchi/status/1188319603291590657"><img alt=".Net" src="assets/posts/dotnetconf-2019-tokyo.png" width="45%" /></a></p>
+<p><a href="https://twitter.com/KagJansamret/status/1187990165697916931">&nbsp;</a><a href="https://twitter.com/Rie_Moriguchi/status/1188319603291590657"><img alt=".NET" src="assets/posts/dotnetconf-2019-tokyo.png" width="45%" /></a></p>
 
-<p><a href="https://twitter.com/Rie_Moriguchi/status/1188319603291590657">&nbsp;</a><a href="https://twitter.com/dotnetosorg/status/1182560758472814599"><img alt=".Net" src="assets/posts/dotnetconf-2019-romania.png" width="45%" /></a></p>
+<p><a href="https://twitter.com/Rie_Moriguchi/status/1188319603291590657">&nbsp;</a><a href="https://twitter.com/dotnetosorg/status/1182560758472814599"><img alt=".NET" src="assets/posts/dotnetconf-2019-romania.png" width="45%" /></a></p>
 
 <h2>.NET Foundation Project Updates</h2>
 
@@ -107,11 +107,11 @@ We had 228 .NET Conf Local Events this year with 15K+ estimated attendees!</p>
 <hr />
 <h3>Connect with the .NET Foundation online</h3>
 
-<p>The&nbsp;<a href="https://www.facebook.com/dotnetfoundation/">.NET Foundation is on Facebook now</a>. Please like our page! We’ll post regular updates and interesting things happening with .NET to share.</p>
+<p>The&nbsp;<a href="https://www.facebook.com/dotnetfoundation/">.NET Foundation is on Facebook now</a>. Please like our page! We'll post regular updates and interesting things happening with .NET to share.</p>
 
 <p><a href="https://www.youtube.com/NETFoundation">The .NET Foundation is also on YouTube</a>. Watch community standups and design reviews as well as code-focused shows and interviews across our multiple playlists.</p>
 
 <hr />
 <h3>Remember to Subscribe!</h3>
 
-<p>Please&nbsp;<a href="http://eepurl.com/dhL_qb">sign up to get the .NET Foundation Update via e-mail</a>. Don’t worry, we want to keep these short, interesting, and low-noise, so we won’t overload your e-mail.</p>
+<p>Please&nbsp;<a href="https://eepurl.com/dhL_qb">sign up to get the .NET Foundation Update via e-mail</a>. Don't worry, we want to keep these short, interesting, and low-noise, so we won't overload your e-mail.</p>

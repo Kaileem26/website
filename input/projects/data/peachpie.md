@@ -1,8 +1,8 @@
 ---
 Title: Peachpie Compiler Platform
 Contributor: Peachpie Compiler Platform
-Logo: round-orange-196x196.png
-Web: http://www.peachpie.io
+Logo: peachpie.png
+Web: https://www.peachpie.io
 ---
 # Peachpie Compiler Platform
 

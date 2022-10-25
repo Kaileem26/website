@@ -14,7 +14,7 @@ Published: 2020-02-11
 <li>Project Updates</li>
 </ul>
 
-<p>As always, these are available both on our blog and via e-mail: <a href="http://eepurl.com/dhL_qb" rel="nofollow">Sign up to get the .NET Foundation Update via e-mail</a></p>
+<p>As always, these are available both on our blog and via e-mail: <a href="https://eepurl.com/dhL_qb" rel="nofollow">Sign up to get the .NET Foundation Update via e-mail</a></p>
 
 <h2>Foundation Updates</h2>
 
@@ -81,7 +81,7 @@ Published: 2020-02-11
 <p>The filter syntax issues we've had with special names and characters have been mostly solved thanks to excellent work by <a href="https://github.com/johnmwright">John M. Wright</a>. See <a href="https://github.com/nunit/nunit3-vs-adapter/pull/668">PR 668</a> for a detailed explanation of what has been done.</p>
 </li>
 <li>
-<p>You can now use the NUnit filter syntax, either from command line or through settings in the runsettings file. The idea and implementation were provided by <a href="https://github.com/mletterle">Michael Letterle</a> who wrote a <a href="http://blog.prokrams.com/2019/12/16/nunit3-filter-dotnet/" rel="nofollow">great blogpost</a> to explain how this works and how he arrived at the solution.</p>
+<p>You can now use the NUnit filter syntax, either from command line or through settings in the runsettings file. The idea and implementation were provided by <a href="https://github.com/mletterle">Michael Letterle</a> who wrote a <a href="https://blog.prokrams.com/2019/12/16/nunit3-filter-dotnet/" rel="nofollow">great blogpost</a> to explain how this works and how he arrived at the solution.</p>
 </li>
 </ul>
 
@@ -112,5 +112,5 @@ Published: 2020-02-11
 
 <p>Our .NET Meetup Pro group helps developers find your group, as well as get involved with local events like .NET Conf Local. If your meetup hasn't joined yet, you can <a href="https://aka.ms/add-dotnet-meetup" rel="nofollow">right here</a>.</p>
 
-<p><a href="/assets/74241694-64015800-4c91-11ea-9431-736bc05717a0.png" rel="noopener noreferrer" target="_blank"><img alt="Map of meetup group locations" src="assets/posts/74241694-64015800-4c91-11ea-9431-736bc05717a0.png" style="max-width:100%;" /></a></p>
+<p><a href="/assets/posts/74241694-64015800-4c91-11ea-9431-736bc05717a0.png" rel="noopener noreferrer" target="_blank"><img alt="Map of meetup group locations" src="assets/posts/74241694-64015800-4c91-11ea-9431-736bc05717a0.png" style="max-width:100%;" /></a></p>
 </article>

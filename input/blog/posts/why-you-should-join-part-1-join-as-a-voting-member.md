@@ -17,7 +17,7 @@ Published: 2019-01-14 23:26:08.6261720
 
 <p>We made two big announcements at <a href="https://www.microsoft.com/en-us/connectevent">Microsoft Connect(); 2018</a>: Open Membership and a new Corporate Sponsor program.</p>
 
-<p>First, Open Membership: we're expanding the board from three to seven members, with one single seat appointed by Microsoft and the remaining six elected by the community. The .Net Foundation Board election campaigns will start o<a>n January 28, 2019</a>; any person who has contributed to a.NET Foundation open source project is eligible to run for the board and to vote. This new structure will help the .NET Foundation scale with the growing .NET open source ecosystem and allows our entire community to get a lot more involved.</p>
+<p>First, Open Membership: we're expanding the board from three to seven members, with one single seat appointed by Microsoft and the remaining six elected by the community. The .NET Foundation Board election campaigns will start o<a>n January 28, 2019</a>; any person who has contributed to a.NET Foundation open source project is eligible to run for the board and to vote. This new structure will help the .NET Foundation scale with the growing .NET open source ecosystem and allows our entire community to get a lot more involved.</p>
 
 <p>Secondly, we are also expanding our current technical steering group to a Corporate Sponsor program. In addition to our current sponsors – Red Hat, JetBrains, Google, Unity, Microsoft and Samsung, we are also welcoming <a href="https://content.pivotal.io/blog/you-re-investing-in-net-and-so-are-we-pivotal-is-now-a-corporate-sponsor-of-the-net-foundation">Pivotal</a>, <a href="https://www.telerik.com/blogs/progress-announces-support-visual-studio-2019-net-core-3-net-foundation-more">Progress Telerik</a> and <a href="https://www.insight.com/">Insight</a>. We're working with some other companies who are interested in joining, and I'll be going into more detail on the Corporate Sponsor program in the next post.</p>
 
@@ -73,7 +73,7 @@ Published: 2019-01-14 23:26:08.6261720
 
 <h2>Who is eligible?</h2>
 
-<p>Anyone who has <a>contributed</a>&nbsp;to any .NET Foundation project. Usually&nbsp;that will be with code, but can include documentation, or filing significant issues. It might be something we haven’t thought of yet - if in doubt, ask!</p>
+<p>Anyone who has <a>contributed</a>&nbsp;to any .NET Foundation project. Usually&nbsp;that will be with code, but can include documentation, or filing significant issues. It might be something we haven't thought of yet - if in doubt, ask!</p>
 
 <p><strong>UPDATE: We've expanded and clarified the contribution requirements.&nbsp;Any individual contributor to a .NET Foundation project can apply to become a member. Contributions may include code contributions, documentation, or other significant project contribution, including evangelism, teaching, code, organizing events, etc. If in doubt, please ask us at&nbsp;contact@dotnetfoundation.org</strong></p>
 

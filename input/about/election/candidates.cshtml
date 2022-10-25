@@ -1,6 +1,5 @@
 ﻿---
-layout: _layout
-title: Campaign Statements
+title: Campaign Statements | .NET Foundation
 permalink: about/election/candidates
 ---
 
@@ -9,7 +8,14 @@ permalink: about/election/candidates
         <div class="page-section_row row">
             <div class="col-12">
 
-@if (Inputs.FilterSources("about/election/campaign-2020/*").Count() == 0)
+@{
+    IDocument[] candidates = Outputs
+        .FromPipeline(nameof(Statiq.Web.Pipelines.Content))
+        .FilterSources("about/election/campaign-2021/*.md")
+        .OrderBy(x => x.GetTitle())
+        .ToArray();
+}
+@if (candidates.Length == 0)
 {
     <h3>We're just getting started!</h3>
 
@@ -20,36 +26,35 @@ permalink: about/election/candidates
 }
 else
 {
+    <h3>The Election is Underway!</h3>
+    <p>
+    Members will receive an email with a special link to vote from OpaVote (noreply@opavote.com). Be sure to check your spam folder if you haven't received the link yet.
+    </p>
     <h3 id="here-are-the-campaign-statements-for-our-candidates">Here are the campaign statements for our candidates.</h3>
-    <p>Checkout the <a href="about/election/campaign">details</a> on how the process works.</p>
-
-    <p><a href="https://gitter.im/dotnet-foundation/election?utm_source=badge&amp;utm_medium=badge&amp;utm_campaign=pr-badge"><img src="https://badges.gitter.im/dotnet-foundation/election.svg" alt="Gitter" /></a></p>
+    <p>Check out the <a href="about/election/campaign">details</a> on how the process works.</p>
 
     <section class="card-container">
-        @Html.Partial("../../_partials/_candidate-card.cshtml", Outputs[nameof(Statiq.Web.Pipelines.Content)]
-            .Flatten()
-            .FilterSources("about/election/campaign-2020/*")
-            )
+        @Html.Partial("../../_partials/_candidate-card.cshtml", candidates)
     </section>
 }
 
 <script type="text/javascript">
     document.addEventListener('DOMContentLoaded', function () {
-        var cookieName = 'candidates';
-        var cookie = Cookies.getJSON(cookieName);
+        @* var cookieName = 'candidates';
+        var cookie = Cookies.getJSON(cookieName); *@
         var ul = document.querySelector('section.card-container');
 
         var values = new Array();
         for (var i = 0; i < ul.children.length; i++) {
             values.push(Math.random() * i | 0);
         }
-        console.log(cookie);
+        @* console.log(cookie);
         if (cookie != null && values.length == cookie.values.length) {
             /* reset if candidate lengths change */
             values = cookie.values;
         } else {
             Cookies.set(cookieName, { values: values }, { expires: 1 /*days*/ });
-        }
+        } *@
 
         for (var i = 0; i < values.length; i++) {
             ul.appendChild(ul.children[values[i] | 0]);

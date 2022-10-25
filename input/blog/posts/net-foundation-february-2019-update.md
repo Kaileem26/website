@@ -14,7 +14,7 @@ This month's newsletter includes:</p>
 <li>.NET Meetup news</li>
 </ul>
 
-<p>As always, these are available both on our blog and via e-mail: <a href="http://eepurl.com/dhL_qb">Sign up to get the .NET Foundation Update via e-mail</a></p>
+<p>As always, these are available both on our blog and via e-mail: <a href="https://eepurl.com/dhL_qb">Sign up to get the .NET Foundation Update via e-mail</a></p>
 
 <hr />
 <h2>.NET Foundation Update: Open Membership and Elections</h2>
@@ -69,7 +69,7 @@ Learn more and save the date! &gt; <a href="https://nam06.safelinks.protection.o
 <br />
 The .NET Foundation helped partner with our local Meetups to host these local events, check out the worldwide reach!</p>
 
-<p><a href="https://visualstudio.microsoft.com/vs2019-launch/" target="_blank" title=""><img alt=".Net" src="assets/posts/217da7e1-5e3c-40aa-bb08-3e744ef93db8.png" width="564" /></a></p>
+<p><a href="https://visualstudio.microsoft.com/vs2019-launch/" target="_blank" title=""><img alt=".NET" src="assets/posts/217da7e1-5e3c-40aa-bb08-3e744ef93db8.png" width="564" /></a></p>
 
 <hr />
 <h2>New, Fancy Site for .NET Presentations</h2>
@@ -77,9 +77,9 @@ The .NET Foundation helped partner with our local Meetups to host these local ev
 <p><br />
 We've upgraded our .NET Presentations repo with a pretty new site with an easy to remember URL: <a href="/community/resources" target="_blank">/community/resources</a>. It also has some new updates, including an all new Blazor workshop (complete with drone delivered pizzas!). Take a look!<br />
 <br />
-<a href="/community/resources" target="_blank" title=""><img alt=".Net" src="assets/posts/91a33811-0b6c-4f2f-83e8-3d4f720a84b9.png" width="564" /></a></p>
+<a href="/community/resources" target="_blank" title=""><img alt=".NET" src="assets/posts/91a33811-0b6c-4f2f-83e8-3d4f720a84b9.png" width="564" /></a></p>
 
-<p><a href="https://github.com/dotnet-presentations/blazor-workshop/" target="_blank" title=""><img alt=".Net" src="assets/posts/ee48e462-f704-448c-986a-0c8ef4c37ca7.png" width="564" /></a></p>
+<p><a href="https://github.com/dotnet-presentations/blazor-workshop/" target="_blank" title=""><img alt=".NET" src="assets/posts/ee48e462-f704-448c-986a-0c8ef4c37ca7.png" width="564" /></a></p>
 
 <hr />
 <h2>Meetups</h2>
@@ -92,20 +92,20 @@ We've upgraded our .NET Presentations repo with a pretty new site with an easy t
 <li>165K Members (+8K)</li>
 </ul>
 
-<p><a href="https://www.meetup.com/pro/dotnet" target="_blank"><img alt=".Net" data-file-id="3214993" height="379" src="assets/posts/8fd1e465-9efa-4fc0-8c0f-60b7f5373ba3.jpg" width="819" /></a></p>
+<p><a href="https://www.meetup.com/pro/dotnet" target="_blank"><img alt=".NET" data-file-id="3214993" height="379" src="assets/posts/8fd1e465-9efa-4fc0-8c0f-60b7f5373ba3.jpg" width="819" /></a></p>
 
-<p><img alt=".Net" src="assets/posts/4acc4ac7-42b9-4345-9020-f1fc0110470a.png" width="564" /></p>
+<p><img alt=".NET" src="assets/posts/4acc4ac7-42b9-4345-9020-f1fc0110470a.png" width="564" /></p>
 
 <p>We've also started sending newsletters to Meetup organizers, including some links for some free swag for their groups. If your meetup hasn't joined yet, you can <a href="https://aka.ms/add-dotnet-meetup">right here</a>.</p>
 
 <hr />
 <h2>Connect with the .NET Foundation online</h2>
 
-<p>The <a href="https://www.facebook.com/dotnetfoundation/">.NET Foundation is on Facebook now</a>. Please like our page! We’ll post regular updates and interesting things happening with .NET to share.</p>
+<p>The <a href="https://www.facebook.com/dotnetfoundation/">.NET Foundation is on Facebook now</a>. Please like our page! We'll post regular updates and interesting things happening with .NET to share.</p>
 
 <p>The <a href="https://www.youtube.com/NETFoundation">.NET Foundation is also on YouTube</a>. Watch community standups and design reviews as well as code-focused shows and interviews across our multiple playlists.</p>
 
 <hr />
 <h2>Remember to Subscribe!</h2>
 
-<p>Please <a href="http://eepurl.com/dhL_qb">sign up to get the .NET Foundation Update via e-mail</a>. Don’t worry, we want to keep these short, interesting, and low-noise, so we won’t overload your e-mail.</p>
+<p>Please <a href="http://eepurl.com/dhL_qb">sign up to get the .NET Foundation Update via e-mail</a>. Don't worry, we want to keep these short, interesting, and low-noise, so we won't overload your e-mail.</p>

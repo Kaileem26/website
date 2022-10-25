@@ -16,16 +16,16 @@ This month's update includes:</p>
 <li>Meetups</li>
 </ul>
 
-<p>As always, these are available both on our blog and via e-mail:&nbsp;<a href="http://eepurl.com/dhL_qb">Sign up to get the .NET Foundation Update via e-mail</a></p>
+<p>As always, these are available both on our blog and via e-mail:&nbsp;<a href="https://eepurl.com/dhL_qb">Sign up to get the .NET Foundation Update via e-mail</a></p>
 
 <hr />
-<h2><strong>.NET Conf 2019, September 23-25 (<a href="http://www.dotnetconf.net/">www.dotnetconf.net</a>)</strong></h2>
+<h2><strong>.NET Conf 2019, September 23-25 (<a href="https://www.dotnetconf.net/">www.dotnetconf.net</a>)</strong></h2>
 
-<p><a href="https://www.dotnetconf.net/"><img alt=".Net" src="assets/posts/d115925b-2ca7-48bd-8259-9afd54bd4dfe.png" /></a></p>
+<p><a href="https://www.dotnetconf.net/"><img alt=".NET" src="assets/posts/d115925b-2ca7-48bd-8259-9afd54bd4dfe.png" /></a></p>
 
-<p>.NET Conf is our annual, free, online virtual event and this year and it’s going to be bigger than ever.&nbsp;<strong>.NET Core 3.0 will launch at .NET Conf!</strong><br />
+<p>.NET Conf is our annual, free, online virtual event and this year and it's going to be bigger than ever.&nbsp;<strong>.NET Core 3.0 will launch at .NET Conf!</strong><br />
 <br />
-<em>You don’t want to miss this one. Watch live sessions and ask questions on a variety of .NET topics from web, mobile, gaming, IoT, desktop, AI, and cloud. Attend the virtual attendee party, answer trivia questions, and win prizes from our partners. Save the date and tune into&nbsp;<a href="https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.dotnetconf.net&amp;data=02%7C01%7CJon.Galloway%40microsoft.com%7C3b9fb0ae4a7c47bc479908d72cb2265a%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C637027015973554316&amp;sdata=ZThoqMvta0oGRblUstR8p%2BafxCihVu0OSK53ZKlkpyY%3D&amp;reserved=0">www.dotnetconf.net</a>.</em><br />
+<em>You don't want to miss this one. Watch live sessions and ask questions on a variety of .NET topics from web, mobile, gaming, IoT, desktop, AI, and cloud. Attend the virtual attendee party, answer trivia questions, and win prizes from our partners. Save the date and tune into&nbsp;<a href="https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.dotnetconf.net&amp;data=02%7C01%7CJon.Galloway%40microsoft.com%7C3b9fb0ae4a7c47bc479908d72cb2265a%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C637027015973554316&amp;sdata=ZThoqMvta0oGRblUstR8p%2BafxCihVu0OSK53ZKlkpyY%3D&amp;reserved=0">www.dotnetconf.net</a>.</em><br />
 <br />
 <a href="https://www.dotnetconf.net/">Save the date!</a></p>
 
@@ -33,7 +33,7 @@ This month's update includes:</p>
 <h2>.NET Conf Local Events</h2>
 
 <p><br />
-The best way to experience .NET Conf is at a local event.&nbsp;.NET Conf is partnering with organizers around the globe to bring you&nbsp;<strong>over 150</strong>&nbsp;local in-person events between September 23 through the end of October! Join your fellow developers in a city near you to learn more about .NET. <a href="https://www.dotnetconf.net/local-events"><img alt=".Net" src="assets/posts/ceab7291-9a1b-4db8-83c9-46c6b2bdf744.jpg" /></a></p>
+The best way to experience .NET Conf is at a local event.&nbsp;.NET Conf is partnering with organizers around the globe to bring you&nbsp;<strong>over 150</strong>&nbsp;local in-person events between September 23 through the end of October! Join your fellow developers in a city near you to learn more about .NET. <a href="https://www.dotnetconf.net/local-events"><img alt=".NET" src="assets/posts/ceab7291-9a1b-4db8-83c9-46c6b2bdf744.jpg" /></a></p>
 
 <p><a href="https://www.dotnetconf.net/local-events">Register for a .NET Conf Local Event</a></p>
 
@@ -73,9 +73,9 @@ This month, we've made some good progress on some additional action groups. Some
 <p><br />
 <a href="/blog/2019/03/01/net-foundation-february-2019-update">In case you missed it</a>, we've got a lot of great content you can use in your presentations, workshops, Meetups, training courses, etc. over at&nbsp;<a href="/community/resources">dotnetfoundation.org/community/resources</a>. We keep these up to date, so as .NET Core 3.0 rolls out, this is one of your top resources for training material.<br />
 <br />
-By request, we set up a short url that may be a little easier for you to remember:&nbsp;<a href="https://aka.ms/dotnet-presentations">https://aka.ms/dotnet-presentations</a>. <a href="/community/resources"><img alt=".Net" src="assets/posts/91a33811-0b6c-4f2f-83e8-3d4f720a84b9.png" /></a></p>
+By request, we set up a short url that may be a little easier for you to remember:&nbsp;<a href="https://aka.ms/dotnet-presentations">https://aka.ms/dotnet-presentations</a>. <a href="/community/resources"><img alt=".NET" src="assets/posts/91a33811-0b6c-4f2f-83e8-3d4f720a84b9.png" /></a></p>
 
-<p><a href="https://github.com/dotnet-presentations/blazor-workshop/">Blazing Pizza</a>&nbsp;is one of our most popular workshops - it shows you how to build an online pizza ordering site with Blazor, complete with drone pizza delivery! <a href="https://github.com/dotnet-presentations/blazor-workshop/"><img alt=".Net" src="assets/posts/009ab65d-0d19-45ef-870c-85d8366a1c98.gif" /></a></p>
+<p><a href="https://github.com/dotnet-presentations/blazor-workshop/">Blazing Pizza</a>&nbsp;is one of our most popular workshops - it shows you how to build an online pizza ordering site with Blazor, complete with drone pizza delivery! <a href="https://github.com/dotnet-presentations/blazor-workshop/"><img alt=".NET" src="assets/posts/009ab65d-0d19-45ef-870c-85d8366a1c98.gif" /></a></p>
 
 <hr />
 <h2>.NET Foundation Project Updates</h2>
@@ -99,7 +99,7 @@ By request, we set up a short url that may be a little easier for you to remembe
 
 <p>All subsequent major versions of the above mentioned packages have switched to IdentityModel v4 and will be released along with IdentityServer4 v3 on the 23rd September.</p>
 
-<p>In the coming days I will push IdentityModel v4 to nuget – here’s a high level list of the changes.</p>
+<p>In the coming days I will push IdentityModel v4 to nuget – here's a high level list of the changes.</p>
 
 <p><strong>Target frameworks</strong>&nbsp;I dropped the net452 target – v4 is targeting net461 and netstandard2.0 only.</p>
 
@@ -122,7 +122,7 @@ By request, we set up a short url that may be a little easier for you to remembe
 
 <p>So we've been writing a new sketcher - the&nbsp;<em>Advanced CML-based Molecule Editor</em>&nbsp;(or ACME for short). It's written in C# and uses Windows Presentation Foundation for its graphics. It can be used as a drop-in structure editor for any Windows Forms or WPF application.</p>
 
-<p><a href="https://www.chem4word.co.uk/"><img alt=".Net" src="assets/posts/d0116177-1422-43c8-a2a8-be355cea03f2.png" /></a></p>
+<p><a href="https://www.chem4word.co.uk/"><img alt=".NET" src="assets/posts/d0116177-1422-43c8-a2a8-be355cea03f2.png" /></a></p>
 
 <p>Having our own editor also means we have&nbsp;complete control&nbsp;over what we can and can't edit in CML. This means we can add new features much more easily. And keep our users happy!</p>
 
@@ -206,11 +206,11 @@ By request, we set up a short url that may be a little easier for you to remembe
 <hr />
 <h3>Connect with the .NET Foundation online</h3>
 
-<p>The&nbsp;<a href="https://www.facebook.com/dotnetfoundation/">.NET Foundation is on Facebook now</a>. Please like our page! We’ll post regular updates and interesting things happening with .NET to share.</p>
+<p>The&nbsp;<a href="https://www.facebook.com/dotnetfoundation/">.NET Foundation is on Facebook now</a>. Please like our page! We'll post regular updates and interesting things happening with .NET to share.</p>
 
 <p><a href="https://www.youtube.com/NETFoundation">The .NET Foundation is also on YouTube</a>. Watch community standups and design reviews as well as code-focused shows and interviews across our multiple playlists.</p>
 
 <hr />
 <h3>Remember to Subscribe!</h3>
 
-<p>Please&nbsp;<a href="http://eepurl.com/dhL_qb">sign up to get the .NET Foundation Update via e-mail</a>. Don’t worry, we want to keep these short, interesting, and low-noise, so we won’t overload your e-mail.</p>
+<p>Please&nbsp;<a href="http://eepurl.com/dhL_qb">sign up to get the .NET Foundation Update via e-mail</a>. Don't worry, we want to keep these short, interesting, and low-noise, so we won't overload your e-mail.</p>

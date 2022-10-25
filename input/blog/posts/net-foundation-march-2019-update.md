@@ -15,7 +15,7 @@ This month's newsletter includes:</p>
 <li>.NET Meetup news</li>
 </ul>
 
-<p>As always, these are available both on our blog and via e-mail: <a href="http://eepurl.com/dhL_qb">Sign up to get the .NET Foundation Update via e-mail</a></p>
+<p>As always, these are available both on our blog and via e-mail: <a href="https://eepurl.com/dhL_qb">Sign up to get the .NET Foundation Update via e-mail</a></p>
 
 <hr />
 <h2>.NET Foundation Election: Results Are In!</h2>
@@ -37,7 +37,7 @@ Speaking of getting involved...</p>
 <p class="mx-auto"><a class="site-button site-button--pink" href="/member/become-a-member">Apply for .NET Foundation Membership</a></p>
 
 <hr />
-<h2><img alt=".Net" src="assets/posts/e0448b2e-2fcc-4539-beb8-55a16f07d9ba.jpg" style="width: 1000px; height: 200px;" /></h2>
+<h2><img alt=".NET" src="assets/posts/e0448b2e-2fcc-4539-beb8-55a16f07d9ba.jpg" style="width: 1000px; height: 200px;" /></h2>
 
 <h2>Visual Studio 2019 launches on April 2nd!</h2>
 
@@ -52,7 +52,7 @@ Speaking of getting involved...</p>
 <br />
 <a href="https://nunit.org/news/update/nunit/2019/03/24/nunit-console-3.10.html">NUnit Console and Engine 3.10 were also released</a>, bringing lots of new functionality to .NET Standard platforms with a new .NET Standard 2.0 build in the main engine package. A new `--testparam` console option supersedes `--params` in order to allow test parameters to contain semicolons. These are just two of a myriad of fixes and enhancements.<br />
 <br />
-We have even more releases for you! The&nbsp;<a href="https://marketplace.visualstudio.com/items?itemName=NUnitDevelopers.TestGeneratorNUnitextension">NUnit VS Test Generator</a>&nbsp;and&nbsp;<a href="https://marketplace.visualstudio.com/items?itemName=NUnitDevelopers.NUnitTemplatesforVisualStudio">NUnit VS Template</a> extensions&nbsp;have been released with support for VS2019, and NUnit’s TeamCity Event Listener 1.0.6 was also released with improvements including support for test metadata and suite patterns.<br />
+We have even more releases for you! The&nbsp;<a href="https://marketplace.visualstudio.com/items?itemName=NUnitDevelopers.TestGeneratorNUnitextension">NUnit VS Test Generator</a>&nbsp;and&nbsp;<a href="https://marketplace.visualstudio.com/items?itemName=NUnitDevelopers.NUnitTemplatesforVisualStudio">NUnit VS Template</a> extensions&nbsp;have been released with support for VS2019, and NUnit's TeamCity Event Listener 1.0.6 was also released with improvements including support for test metadata and suite patterns.<br />
 &nbsp;</p>
 
 <h3>Steeltoe 2.2.0 Released!</h3>
@@ -76,20 +76,20 @@ We have even more releases for you! The&nbsp;<a href="https://marketplace.visual
 <li>188K Members (+17K in the past 90 days!!!!!!)</li>
 </ul>
 
-<p><a href="https://www.meetup.com/pro/dotnet" target="_blank"><img alt=".Net" data-file-id="3214993" height="379" src="assets/posts/8fd1e465-9efa-4fc0-8c0f-60b7f5373ba3.jpg" width="819" /></a></p>
+<p><a href="https://www.meetup.com/pro/dotnet" target="_blank"><img alt=".NET" data-file-id="3214993" height="379" src="assets/posts/8fd1e465-9efa-4fc0-8c0f-60b7f5373ba3.jpg" width="819" /></a></p>
 
-<p><img alt=".Net" src="assets/posts/1c771e40-ae82-42f5-b260-c85f6736f3b1.png" style="width: 1200px; height: 428px;" /></p>
+<p><img alt=".NET" src="assets/posts/1c771e40-ae82-42f5-b260-c85f6736f3b1.png" style="width: 1200px; height: 428px;" /></p>
 
 <p>We've also started sending newsletters to Meetup organizers, including some links for some free swag for their groups. If your meetup hasn't joined yet, you can <a href="https://aka.ms/add-dotnet-meetup">right here</a>.</p>
 
 <hr />
 <h2>Connect with the .NET Foundation online</h2>
 
-<p>The <a href="https://www.facebook.com/dotnetfoundation/">.NET Foundation is on Facebook now</a>. Please like our page! We’ll post regular updates and interesting things happening with .NET to share.</p>
+<p>The <a href="https://www.facebook.com/dotnetfoundation/">.NET Foundation is on Facebook now</a>. Please like our page! We'll post regular updates and interesting things happening with .NET to share.</p>
 
 <p>The <a href="https://www.youtube.com/NETFoundation">.NET Foundation is also on YouTube</a>. Watch community standups and design reviews as well as code-focused shows and interviews across our multiple playlists.</p>
 
 <hr />
 <h2>Remember to Subscribe!</h2>
 
-<p>Please <a href="http://eepurl.com/dhL_qb">sign up to get the .NET Foundation Update via e-mail</a>. Don’t worry, we want to keep these short, interesting, and low-noise, so we won’t overload your e-mail.</p>
+<p>Please <a href="https://eepurl.com/dhL_qb">sign up to get the .NET Foundation Update via e-mail</a>. Don't worry, we want to keep these short, interesting, and low-noise, so we won't overload your e-mail.</p>

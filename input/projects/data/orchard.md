@@ -3,7 +3,7 @@ Title: Orchard Core
 Contributor: The Orchard Core Team
 Logo: orchardcore_logo.png
 Web: https://www.orchardcore.net
-Keywords: .Net, Open-Source, CMS
+Keywords: .NET, Open-Source, CMS
 ---
 # Orchard Core
 
@@ -22,7 +22,7 @@ presentation that you need for your content.
 
 * [Project Info Site](https://www.orchardcore.net/)
 * [Project Code Site](https://github.com/OrchardCMS/OrchardCore)
-* Project License Type: [New BSD License(BSD)](https://raw.githubusercontent.com/OrchardCMS/OrchardCore/master/LICENSE.txt)
+* Project License Type: [New BSD License(BSD)](https://github.com/OrchardCMS/OrchardCore/blob/dev/LICENSE)
 
 ### Quicklinks
 

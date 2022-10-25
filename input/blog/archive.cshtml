@@ -1,8 +1,7 @@
 ---
-Enumerate: => Inputs.FilterSources("blog/posts/*").Select(x => x.GetDateTime("Published").ToString("yyyy/MM")).Distinct()
-DestinationPath: => new NormalizedPath($"blog/{Current}/index.html")
-Title: => $"Post Archive - {Current}"
-layout: _layout
+Enumerate: => Parent.Inputs.FilterSources("blog/posts/*").Select(x => x.GetDateTime("Published").ToString("yyyy/MM")).Distinct()
+DestinationPath: => new NormalizedPath($"blog/{GetString("Current")}/index.html")
+Title: => $"Post Archive - {GetString("Current")}"
 ---
 <section class="page-section page-section">
     <div class="page-section_container container">
@@ -10,11 +9,11 @@ layout: _layout
             <div class="col-12">
                 <div class="row">
                     <div class="col-md-9">
-                        @Html.Partial("_posts.cshtml", Outputs[nameof(Statiq.Web.Pipelines.Content)]
-                            .Flatten()
+                        @Html.Partial("_posts.cshtml", Outputs
+                            .FromPipeline(nameof(Statiq.Web.Pipelines.Content))
                             .FilterSources("blog/posts/*")
-                            .Where(doc => doc.GetDateTime("Published").ToString("yyyy/MM").Equals(Model.GetString(Keys.Current)))
-                            .OrderByDescending(doc => doc.GetDateTime("Published")))
+                            .Where(doc => doc.GetDateTime(WebKeys.Published).ToString("yyyy/MM").Equals(Model.GetString(Keys.Current)))
+                            .OrderByDescending(doc => doc.GetDateTime(WebKeys.Published)))
                     </div>
                     <div class="col-md-3">
                         @Html.Partial("_archives.cshtml")
@@ -26,5 +25,5 @@ layout: _layout
 </section>
 
 @section head {
-    <link type="application/rss+xml" rel="alternate" title="Blog" href="/api/rss/" />
+    <link type="application/rss+xml" rel="alternate" title="Blog" href="/api/rss/" data-no-validate />
 }

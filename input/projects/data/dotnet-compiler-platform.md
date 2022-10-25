@@ -2,7 +2,7 @@
 Title: .NET Compiler Platform ("Roslyn")
 Contributor: Microsoft
 Logo: microsoft.jpg
-Web: http://www.microsoft.com
+Web: https://www.microsoft.com
 ---
 # .NET Compiler Platform ("Roslyn")
 
@@ -19,10 +19,9 @@ The [.NET Compiler Platform ("Roslyn")](https://github.com/dotnet/roslyn) provid
 
 * [Contribute](https://roslyn.codeplex.com/wikipage?title=How%20to%20Contribute)
 * [Documentation](https://docs.microsoft.com/dotnet/csharp/roslyn-sdk/) 
-* [Jabbr](https://jabbr.net/#/rooms/roslyn) 
+* [Discussions](https://github.com/dotnet/roslyn/discussions) 
 * [Questions, Comments and Feedback](https://roslyn.codeplex.com/wikipage?title=Questions%2c%20Comments%2c%20and%20Feedback&referringTitle=Home)
 
 Blogs:
  
-* [VB](https://blogs.msdn.com/b/vbteam/archive/tags/roslyn/) 
-* [C#](https://blogs.msdn.com/b/csharpfaq/archive/tags/roslyn/)
+* [.NET Blog](https://devblogs.microsoft.com/dotnet/tag/roslyn/) 

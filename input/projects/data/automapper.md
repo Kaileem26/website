@@ -1,8 +1,8 @@
 ---
 Title: AutoMapper
 Contributor: AutoMapper
-Logo: fc019716-ad57-4172-8679-7b5bfe4c614a.jpg
-Web: http://automapper.org
+Logo: automapper.jpg
+Web: https://automapper.org
 ---
 # AutoMapper
 
@@ -20,5 +20,5 @@ With straightforward conventions, AutoMapper removes hundreds or thousands of li
 
 ## Quicklinks
 
-* [Documentation](https://github.com/AutoMapper/AutoMapper/wiki)
+* [Documentation](https://docs.automapper.org/en/stable/)
 * [Contribute](https://github.com/AutoMapper/AutoMapper/blob/master/CONTRIBUTING.md)

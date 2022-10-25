@@ -5,7 +5,7 @@ Published: 2019-09-30 17:33:07.1983371
 ---
 <p><em>Author: Ben Adams, .NET Foundation Board Member</em></p>
 
-<p>The <a href="https://github.com/orgs/dotnet-foundation/teams/project-support">Project Support action group</a> is responsible for brainstorming and helping to implement the various ways (and services) that the .NET Foundation offers to member projects. The goal is to ensure that member projects are sustainable and well supported.</p>
+<p>The <a href="https://github.com/orgs/dotnet-foundation/teams/projects">Project Support action group</a> is responsible for brainstorming and helping to implement the various ways (and services) that the .NET Foundation offers to member projects. The goal is to ensure that member projects are sustainable and well supported.</p>
 
 <hr />
 <p>The .NET Foundation's current Project Support so far has been focused on providing services and automation for projects; to help project maintainers and contributors to be able to focus more on their projects and less on the infrastructure.</p>
@@ -26,7 +26,7 @@ Published: 2019-09-30 17:33:07.1983371
 <p>I, <a href="https://twitter.com/ben_a_adams" rel="nofollow">Ben Adams</a>, was <a href="/about/election/campaign-2019/ben-adams.html" rel="nofollow">elected on a mandate</a> of</p>
 
 <blockquote style="padding:0 1em;color:#332233;border-left:.25em solid #ddeeee">
-<p><em>I’d like the .NET ecosystem to thrive with projects people consider and take dependencies on to be much wider than the narrow “Microsoft-blessed” scope that people and companies generally consider.</em></p>
+<p><em>I'd like the .NET ecosystem to thrive with projects people consider and take dependencies on to be much wider than the narrow "Microsoft-blessed" scope that people and companies generally consider.</em></p>
 </blockquote>
 
 <p>I consider this Project Support Initiative as part of that mission. This initiative was directed by the .NET Foundation board and not by Microsoft (though Microsoft employees did participate in drafting the initiative). However, this does not excuse it being presented as a solution, without broader community consultation and I (and the Board) take responsibility for that. So for that I must apologise, and I'm slowing this process down to get back to basics and to move forward on more solid ground.</p>

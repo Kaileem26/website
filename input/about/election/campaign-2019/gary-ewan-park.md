@@ -1,6 +1,5 @@
 ---
 title: Gary Ewan Park
-layout: _layout
 image: campaign-2019/5d90914a-07bd-4f92-aab0-9df026779702.jpg
 ---
 
@@ -59,7 +58,7 @@ I am a [Microsoft MVP](https://mvp.microsoft.com/en-us/PublicProfile/5002701) in
 * [My blog](https://www.gep13.co.uk/)
 * [Chocolatey](https://chocolatey.org/) where I am a project maintainer
 * [Cake](https://cakebuild.net/) where I am a project maintainer
-* [Aberdeen Developers .Net User Group](https://www.aberdeendevelopers.co.uk/)
+* [Aberdeen Developers .NET User Group](https://www.aberdeendevelopers.co.uk/)
 * [Stack Overflow Profile](https://stackoverflow.com/users/671491/gary-ewan-park)
 
 ## Contact Information
